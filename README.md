@@ -2,7 +2,7 @@
 
 **Veer-Darbar-AI** is an open-source platform that brings Indian history to life. It serves as a digital "Darbar" a space where users can engage in meaningful, character-driven conversations with legendary warriors and historical figures.
 
-By leveraging the ultra-low latency of the **Groq API**, Veer-Darbar-AI delivers a seamless, conversational experience that makes history feel as immediate and dynamic as a real-time discussion.
+By leveraging the ultra-low latency of the **Groq API**, Veer-Darbar-AI delivers a seamless, conversational experience that makes history feel as immediate and dynamic as a real-time discussion.Added zod validation for better output
 
 ##  Features
 
@@ -15,5 +15,5 @@ By leveraging the ultra-low latency of the **Groq API**, Veer-Darbar-AI delivers
 
 * **LLM Inference:** [Groq API](https://groq.com/)
 * **Frontend:** Next.js , Tailwind Css
-* **Backend:** Next.js
+* **Backend:** Next.js,Zod 
 
